@@ -29,7 +29,7 @@
 
   @foreach ($rooms as $room)
     <article class="room">
-      <a href="room_details?room={{ $room->_id }}">
+      <a href="{{ route('room_details.show', ['id' => $room->_id]) }}">
         <img class="room__img" src="{{ $room->images->first()->image }}" alt="room" />
       </a>
       <div class="room__content">
