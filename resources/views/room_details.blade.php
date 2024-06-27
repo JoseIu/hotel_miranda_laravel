@@ -66,45 +66,45 @@
         </p>
         <ul class="offer__aminities roboto">
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/snow.svg" alt="icon Air conditioner " />
+                <img class="offer__icon" src="/assets/images/rooms/snow.svg" alt="icon Air conditioner " />
                 <span>Air conditioner</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/wifi.svg" alt="icon free wifi" />
+                <img class="offer__icon" src="/assets/images/rooms/wifi.svg" alt="icon free wifi" />
                 <span>High speed WiFi</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/wifi.svg" alt="icon free wifi" />
+                <img class="offer__icon" src="/assets/images/rooms/wifi.svg" alt="icon free wifi" />
                 <span>Breakfast</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/kitchen.svg" alt="icon kitchen" />
+                <img class="offer__icon" src="/assets/images/rooms/kitchen.svg" alt="icon kitchen" />
                 <span>Kitchen</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/cleaning.svg" alt="icon cleaning" />
+                <img class="offer__icon" src="/assets/images/rooms/cleaning.svg" alt="icon cleaning" />
 
                 <span>Cleaning</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/shower.svg" alt="icon shower" />
+                <img class="offer__icon" src="/assets/images/rooms/shower.svg" alt="icon shower" />
 
                 <span>Shower</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/grocery.svg" alt="icon grocery" />
+                <img class="offer__icon" src="/assets/images/rooms/grocery.svg" alt="icon grocery" />
                 <span>Grocery</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/bed.svg" alt="icon bed" />
+                <img class="offer__icon" src="/assets/images/rooms/bed.svg" alt="icon bed" />
                 <span>Single bed</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/shop.svg" alt="icon Shop" />
+                <img class="offer__icon" src="/assets/images/rooms/shop.svg" alt="icon Shop" />
                 <span>Shop near</span>
             </li>
             <li class="offer__aminitie">
-                <img class="offer__icon" src="./assets/images/rooms/towels.svg" alt="icon towels" />
+                <img class="offer__icon" src="/assets/images/rooms/towels.svg" alt="icon towels" />
                 <span>Towels</span>
             </li>
         </ul>
@@ -113,7 +113,7 @@
     <div class="room-founder">
         <article class="founder">
             <div class="founder__img">
-                <img src="./assets/images/founder.webp" alt="founder" />
+                <img src="/assets/images/founder.webp" alt="founder" />
             </div>
             <div class="founder__info">
                 <h2 class="founder__title title">Donald H. Hilixer</h2>
@@ -141,30 +141,30 @@
     <div class="rooms-grid">
         <article class="room">
             <a href="./room_details.html">
-                <img class="room__img" src="./assets/images/room/room.webp" alt="room" />
+                <img class="room__img" src="/assets/images/room/room.webp" alt="room" />
             </a>
             <div class="room__content">
                 <ul class="room__list">
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/bed.svg" alt="room bed icon" />
+                        <img class="room__icon" src="/assets/images/rooms/bed.svg" alt="room bed icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/wifi.svg" alt="room wifi icon" />
+                        <img class="room__icon" src="/assets/images/rooms/wifi.svg" alt="room wifi icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/car.svg" alt="room car icon" />
+                        <img class="room__icon" src="/assets/images/rooms/car.svg" alt="room car icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/snow.svg" alt="room snow icon" />
+                        <img class="room__icon" src="/assets/images/rooms/snow.svg" alt="room snow icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
+                        <img class="room__icon" src="/assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cup.svg" alt="room cup icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cup.svg" alt="room cup icon" />
                     </li>
                 </ul>
                 <h3 class="room__title old">Minimal Duplex Room</h3>
@@ -179,31 +179,31 @@
         </article>
         <article class="room">
             <a href="./room_details.html">
-                <img class="room__img" src="./assets/images/room/room.webp" alt="room" />
+                <img class="room__img" src="/assets/images/room/room.webp" alt="room" />
             </a>
 
             <div class="room__content">
                 <ul class="room__list">
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/bed.svg" alt="room bed icon" />
+                        <img class="room__icon" src="/assets/images/rooms/bed.svg" alt="room bed icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/wifi.svg" alt="room wifi icon" />
+                        <img class="room__icon" src="/assets/images/rooms/wifi.svg" alt="room wifi icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/car.svg" alt="room car icon" />
+                        <img class="room__icon" src="/assets/images/rooms/car.svg" alt="room car icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/snow.svg" alt="room snow icon" />
+                        <img class="room__icon" src="/assets/images/rooms/snow.svg" alt="room snow icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
+                        <img class="room__icon" src="/assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cup.svg" alt="room cup icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cup.svg" alt="room cup icon" />
                     </li>
                 </ul>
                 <h3 class="room__title old">Minimal Duplex Room</h3>
@@ -218,31 +218,31 @@
         </article>
         <article class="room">
             <a href="./room_details.html">
-                <img class="room__img" src="./assets/images/room/room.webp" alt="room" />
+                <img class="room__img" src="/assets/images/room/room.webp" alt="room" />
             </a>
 
             <div class="room__content">
                 <ul class="room__list">
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/bed.svg" alt="room bed icon" />
+                        <img class="room__icon" src="/assets/images/rooms/bed.svg" alt="room bed icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/wifi.svg" alt="room wifi icon" />
+                        <img class="room__icon" src="/assets/images/rooms/wifi.svg" alt="room wifi icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/car.svg" alt="room car icon" />
+                        <img class="room__icon" src="/assets/images/rooms/car.svg" alt="room car icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/snow.svg" alt="room snow icon" />
+                        <img class="room__icon" src="/assets/images/rooms/snow.svg" alt="room snow icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
+                        <img class="room__icon" src="/assets/images/rooms/dumbbells.svg" alt="room dumbbells icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cigar.svg" alt="room no-smoking icon" />
                     </li>
                     <li class="room__li">
-                        <img class="room__icon" src="./assets/images/rooms/cup.svg" alt="room cup icon" />
+                        <img class="room__icon" src="/assets/images/rooms/cup.svg" alt="room cup icon" />
                     </li>
                 </ul>
                 <h3 class="room__title old">Minimal Duplex Room</h3>
