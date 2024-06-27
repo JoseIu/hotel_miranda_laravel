@@ -19,8 +19,8 @@ class RoomController extends Controller
     }
     public function show($id)
     {
-        $room = Room::with('amenities', 'images', 'bookings')->findOrFail($id);
-        return view('room_details', compact('room'));
+        $roomdetails = Room::with('amenities', 'images', 'bookings')->findOrFail($id);
+        return view('room_details', compact('roomdetails'));
     }
 
 }
