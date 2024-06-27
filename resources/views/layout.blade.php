@@ -21,14 +21,14 @@
       <div class="header__content">
         <div class="header__actions">
           <button class="header__toggle" aria-label="toggle open menu">
-            <img src="./assets/images/menu.svg" alt="icon menu" />
+            <img src="/assets/images/menu.svg" alt="icon menu" />
           </button>
           <button class="header__close header__toggle--hidden" aria-label="button close menu">
-            <img src="./assets/images/cross.svg" alt="close menu" />
+            <img src="/assets/images/cross.svg" alt="close menu" />
           </button>
         </div>
-        <a class="header__logo" href="./index" aria-label="retur to home">
-          <img class="header__image" src="./assets/images/logo.svg" alt="hotel miranda logo" />
+        <a class="header__logo" href="/index" aria-label="retur to home">
+          <img class="header__image" src="/assets/images/logo.svg" alt="hotel miranda logo" />
 
           <h1 class="header__title">Hotel <span>Miranda</span></h1>
         </a>
@@ -36,18 +36,18 @@
         <nav class="header__nav">
           <ul class="header__nav-list">
             <li class="header__nav-item">
-              <a class="header__nav-link" href="./about_us" aria-label="go to About-us">About Us
+              <a class="header__nav-link" href="/about_us" aria-label="go to About-us">About Us
               </a>
             </li>
             <li class="header__nav-item">
-              <a class="header__nav-link" href="./room" aria-label="go to Rooms">Rooms </a>
+              <a class="header__nav-link" href="/room" aria-label="go to Rooms">Rooms </a>
             </li>
             <li class="header__nav-item">
-              <a class="header__nav-link" href="./our_offer" aria-label="go to Offers">Offers
+              <a class="header__nav-link" href="/our_offer" aria-label="go to Offers">Offers
               </a>
             </li>
             <li class="header__nav-item">
-              <a class="header__nav-link" href="./contact" aria-label="go to Contact">Contact
+              <a class="header__nav-link" href="/contact" aria-label="go to Contact">Contact
               </a>
             </li>
           </ul>
@@ -57,19 +57,18 @@
       <ul class="header__list">
         <li class="header__item">
           <a class="header__link" href="#">
-            <img class="header__icon" src="./assets/images/profile.svg" alt="profile icon" />
+            <img class="header__icon" src="/assets/images/profile.svg" alt="profile icon" />
           </a>
         </li>
         <li class="header__item">
           <a class="header__link" href="#">
-            <img class="header__icon" src="./assets/images/search.svg" alt="search icon" />
+            <img class="header__icon" src="/assets/images/search.svg" alt="search icon" />
           </a>
         </li>
       </ul>
     </div>
   </header>
   <main>
-
     @yield('content')
   </main>
 
@@ -78,7 +77,7 @@
       <div class="footer__container wrapper2">
         <div>
           <div class="header__logo">
-            <img class="header__image footer__logo" src="./assets/images/footer/logo2.svg" alt="hotel miranda logo" />
+            <img class="header__image footer__logo" src="/assets/images/footer/logo2.svg" alt="hotel miranda logo" />
 
             <h1 class="header__title">Hotel <span>Miranda</span></h1>
           </div>
@@ -153,19 +152,19 @@
 
           <ul class="contact__list">
             <li class="contact__item">
-              <img class="contact__img" src="./assets/images/footer/phone.svg" alt="phone icon" loading="lazy" />
+              <img class="contact__img" src="/assets/images/footer/phone.svg" alt="phone icon" loading="lazy" />
               <p class="contact__subtitle old">
                 Phone Number <span class="contact__span">+987 876 765 76 577</span>
               </p>
             </li>
             <li class="contact__item">
-              <img class="contact__img" src="./assets/images/footer/email.svg" alt="phone icon" loading="lazy" />
+              <img class="contact__img" src="/assets/images/footer/email.svg" alt="phone icon" loading="lazy" />
               <p class="contact__subtitle old">
                 Phone Number <span class="contact__span">+987 876 765 76 577</span>
               </p>
             </li>
             <li class="contact__item">
-              <img class="contact__img" src="./assets/images/footer/location-2.svg" alt="phone icon" loading="lazy" />
+              <img class="contact__img" src="/assets/images/footer/location-2.svg" alt="phone icon" loading="lazy" />
               <p class="contact__subtitle old">
                 Phone Number <span class="contact__span">+987 876 765 76 577</span>
               </p>
